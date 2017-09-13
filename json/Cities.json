@@ -1,0 +1,14 @@
+[
+  {
+    "City": "Boston, MA",
+    "Sales": "$96,496.00"
+  },
+  {
+    "City": "Manhattan, NY",
+    "Sales": "$124,565.00"
+  },
+  {
+    "City": "Washington, D.C.",
+    "Sales": "$119,766.00"
+  }
+]

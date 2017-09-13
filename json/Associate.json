@@ -1,0 +1,92 @@
+[
+  {
+    "ID": "Associate0124",
+    "Name": "John Doe",
+    "Store": "FLS",
+    "Street": "Newbury Street",
+    "City": "Boston, MA",
+    "Count": 24,
+    "Sales": "$12,738.00"
+  },
+  {
+    "ID": "Associate0422",
+    "Name": "Mike Waltham",
+    "Store": "OS",
+    "Street": "Midtown",
+    "City": "Manhattan, NY",
+    "Count": 22,
+    "Sales": "$11,847.00"
+  },
+  {
+    "ID": "Associate0967",
+    "Name": "Wendy Hughes",
+    "Store": "DSG",
+    "Street": "Captial Hill",
+    "City": "Washington, D.C.",
+    "Count": 22,
+    "Sales": "$11,233.00"
+  },
+  {
+    "ID": "Associate0297",
+    "Name": "Scott Styris",
+    "Store": "FLS",
+    "Street": "Newbury Street",
+    "City": "Boston, MA",
+    "Count": 29,
+    "Sales": "$11,136.00"
+  },
+  {
+    "ID": "Associate0874",
+    "Name": "Chris Walker",
+    "Store": "OS",
+    "Street": "Battery Park",
+    "City": "Manhattan, NY",
+    "Count": 22,
+    "Sales": "$10,574.00"
+  },
+  {
+    "ID": "Associate0321",
+    "Name": "Matt Damon",
+    "Store": "SA",
+    "Street": "National Mall",
+    "City": "Washington, D.C.",
+    "Count": 14,
+    "Sales": "$4,713.00"
+  },
+  {
+    "ID": "Associate0136",
+    "Name": "Kyle Stones",
+    "Store": "OS",
+    "Street": "Battery Park",
+    "City": "Manhattan, NY",
+    "Count": 9,
+    "Sales": "$4,311.00"
+  },
+  {
+    "ID": "Associate0221",
+    "Name": "Jamie Dudley",
+    "Store": "FLS",
+    "Street": "Brookline",
+    "City": "Boston, MA",
+    "Count": 12,
+    "Sales": "$3,981.00"
+  },
+  {
+    "ID": "Associate0482",
+    "Name": "Mark Tyler",
+    "Store": "DSG",
+    "Street": "Captial Hill",
+    "City": "Washington, D.C.",
+    "Count": 8,
+    "Sales": "$3,296.00"
+  },
+  {
+    "ID": "Associate0523",
+    "Name": "Brian Willis",
+    "Store": "OS",
+    "Street": "Midtown",
+    "City": "Manhattan, NY",
+    "Count": 8,
+    "Sales": "$2,917.00"
+  }
+]
